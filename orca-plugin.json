@@ -3,7 +3,7 @@
   "execution": "trusted-worker",
   "id": "tidyagents",
   "name": "tidyagents",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Scores the agent instruction files (AGENTS.md, CLAUDE.md, .cursorrules, SKILL.md) of the focused workspace, and warns when an agent's changes leave them stale.",
   "author": { "name": "Vishwanath Kulkarni", "url": "https://github.com/vishwakulkarni" },
   "repository": "https://github.com/vishwakulkarni/tidyagents",
