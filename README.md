@@ -44,6 +44,19 @@ Real fixes found by `tidyagents` in public repos and sent upstream:
 | joelhooks/swarm-tools (749★) | `AGENTS.md` | Skills folder renamed `.opencode/skills/` → `.opencode/skill/` | **60 → 80** | [PR #212](https://github.com/joelhooks/swarm-tools/pull/212) (auto-closed: repo takes vouched contributors only) |
 | vuepress-theme-plume (497★) | `AGENTS.md` | `ConfigLoader.ts` moved into `features/` | **86 → 96** | [PR #1080](https://github.com/pengzhanbo/vuepress-theme-plume/pull/1080) |
 
+### Fixes merged upstream
+
+Stale paths found by `tidyagents`, checked by hand, and merged by the maintainers:
+
+| Repo | File | What was stale | PR |
+|---|---|---|---|
+| BuilderIO/agent-native (7.7k★) | `packages/core/docs/AGENTS.md` | 25 doc links still ended in `.md` after the docs moved to `.mdx` | [#8925](https://github.com/BuilderIO/agent-native/pull/8925) |
+| supabase/supabase-js (4.6k★) | `.claude/CLAUDE.md` | Two release workflows that were merged into `publish.yml` | [#2854](https://github.com/supabase/supabase-js/pull/2854) |
+| NVIDIA/cudnn-frontend (999★) | sdpa `AGENTS.md` | 4 kernel paths that moved into `fwd/` and `bwd/` | [#2348](https://github.com/NVIDIA/cudnn-frontend/pull/2348) |
+| temporalio/sdk-rust (551★) | `AGENTS.md`, `README.md`, `ARCHITECTURE.md` | `crates/core` renamed to `crates/sdk-core` | [#1771](https://github.com/temporalio/sdk-rust/pull/1771) |
+| pengzhanbo/vuepress-theme-plume (496★) | `AGENTS.md` | `ConfigLoader.ts` moved into `features/` | [#1080](https://github.com/pengzhanbo/vuepress-theme-plume/pull/1080) |
+| google/three-live (374★) | `AGENTS.md` | Header renamed `three_live.h` → `three_live_compiler.h` | [#96](https://github.com/google/three-live/pull/96) |
+
 ### Big-name repos
 
 | Repo | Agent files | Score | Top finding |
