@@ -2,7 +2,7 @@
   "name": "tidyagents",
   "displayName": "tidyagents",
   "description": "Lint and score AI agent instruction files (AGENTS.md, CLAUDE.md, .cursorrules, SKILL.md and more) as you edit.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "vishwakulkarni",
   "author": "Vishwanath Kulkarni",
   "license": "Apache-2.0",
